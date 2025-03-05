@@ -3,11 +3,15 @@ D:\Education\DSI21\semestre 2\Environnement _de _dev\.metadata\.plugins\org.ecli
 \TP2_JEE\src\main\java
 D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3951100231.index
 \TP4_JEE\src\main\java
+D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1554762715.index
+\TP4_JEEv2\src\main\java
 D:\Education\DSI21\semestre 2\Environnement _de _dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1721927266.index
 \TP1_JEE\src\main\java
 D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3452673322.index
 \TP3_JEE2\src\main\java
 D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1248679529.index
 \TP3_JEE3\src\main\java
+D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2819793770.index
+\TP4_JEE2\src\main\java
 D:\Education\DSI21\semestre 2\Java EE\TP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2187757343.index
 \TP3_JEE\src\main\java
